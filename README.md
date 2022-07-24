@@ -1,2 +1,2 @@
 # p11django
-web-site
+djangoga oid kodlar majud
